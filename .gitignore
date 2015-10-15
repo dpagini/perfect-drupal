@@ -1,1 +1,2 @@
-.tmp
+# main .gitignore file
+.tmp # .tmp file be used for running various tasks
