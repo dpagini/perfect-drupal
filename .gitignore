@@ -1,2 +1,7 @@
 # main .gitignore file
-.tmp # .tmp file be used for running various tasks
+
+# .tmp/ folder be used for running various tasks
+.tmp
+
+# node_modules/ folder to contain all `npm` tools
+node_modules

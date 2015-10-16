@@ -9,6 +9,7 @@ Files Explanation
 * Vagrantfile -
 * project.make.yml - Drush Makefile - configure a Drupal installation
 * package.json - config file for npm (can this be somewhere else? can it be yml?)
+* gulpfile.js - directory, configure all of gulp tasks
 
 
 What I want...
@@ -17,3 +18,7 @@ What I want...
 
 Solve
 * how to have the /drupal directory contain the source code to edit on the local machine, but appear in docroot/sites/all/ within the VM
+
+
+##TODO:
+* rename project **perfect-drupal-scaffolding**?
